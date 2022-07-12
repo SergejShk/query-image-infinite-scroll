@@ -1,1 +1,1 @@
-# query-image-infinite-scroll
+# goit-js-hw-11
